@@ -18,7 +18,7 @@ body {
 .pomodoro {
   height: 70px;
   display: flex;
-  background: #d2cf39;
+  background: #3c989b;
   justify-content: center;
   box-shadow: 1px 1px 1px #888888;
 }
